@@ -192,7 +192,7 @@ DELETE /api/tasks/:id
 
 ---
 
-##Screenshots
+## Screenshots
 
 ![Login](frontend/screenshots/login_page.png)
 ![Dashboard](frontend/screenshots/dashboard_page.png)
@@ -211,5 +211,6 @@ GitHub: https://github.com/virajpatel-20
 ## Conclusion
 
 This project demonstrates the implementation of a secure full-stack authentication system with a functional dashboard and CRUD operations. It follows best practices for backend security, frontend routing, and API integration.
+
 
 
