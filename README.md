@@ -191,6 +191,10 @@ DELETE /api/tasks/:id
 * Refresh token implementation
 
 ---
+##Screenshots
+![Login](frontend/screenshots/login page.png)
+![Dashboard](frontend/screenshots/dashboard page.png)
+
 
 ## Author
 
@@ -202,3 +206,4 @@ GitHub: https://github.com/virajpatel-20
 ## Conclusion
 
 This project demonstrates the implementation of a secure full-stack authentication system with a functional dashboard and CRUD operations. It follows best practices for backend security, frontend routing, and API integration.
+
